@@ -1,10 +1,11 @@
-### Hello, I'm Kovarthanan Kesavan ! 👋
+### Hello, I'm Kovarthanan K ! 👋
 
 
 
 
-- 🔭 I’m currently undergraduate at University of Moratuwa 
-- 🌱 I’m currently learning Mern Stack 
+- 
+- 🔭 Machine Learning Engineer intern
+- 🌱 I’m currently undergraduate at University of Moratuwa 
 - 💬 Ask me about Python, JavaScript
 - 📫 How to reach me: kovarthanan07@gmail.com
 - ⚡ Fun fact: Time spend with machine > Time spend with humans :P
