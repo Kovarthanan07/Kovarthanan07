@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Machine Learning Engineer intern
+- 🔭 Machine Learning Engineer
 - 🌱 I’m currently undergraduate at University of Moratuwa 
 - 💬 Ask me about Python, JavaScript
 - 📫 How to reach me: kovarthanan07@gmail.com
